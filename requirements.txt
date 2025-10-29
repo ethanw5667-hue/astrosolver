@@ -1,0 +1,7 @@
+astropy>=5.3
+photutils>=1.12
+astroquery>=0.4.7
+matplotlib>=3.7
+numpy
+scipy
+requests
